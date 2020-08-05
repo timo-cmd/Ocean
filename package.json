@@ -1,0 +1,17 @@
+{
+  "name": "ocean-editor",
+  "version": "1.0.0",
+  "description": "A lightweight text editor for the modern age",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Timo Sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.1.2",
+    "electron-data": "^2.1.2",
+    "electron-packager": "^15.0.0"
+  },
+  "devDependencies": {}
+}
