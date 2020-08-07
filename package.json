@@ -8,6 +8,7 @@
   },
   "author": "Timo Sarkar",
   "license": "ISC",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "dependencies": {
     "electron": "^9.1.2",
     "electron-data": "^2.1.2",
